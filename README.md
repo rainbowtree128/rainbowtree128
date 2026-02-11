@@ -1,13 +1,15 @@
 <!-- 顶部动态 Banner (可选) -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=Hello%20World&fontSize=70&animation=fadeIn&fontAlignY=38&desc=I%20build%20things%20for%20the%20web&descAlignY=55&descAlign=50" />
+  <a href="#">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=Hello%20World&fontSize=70&animation=fadeIn&fontAlignY=38&desc=I%20build%20things%20for%20the%20web&descAlignY=55&descAlign=50" alt="header" />
+  </a>
 </div>
 
 <!-- 个人简介区 -->
 ### Hi there, I'm <a href="https://github.com/rainbowtree128">rainbowtree</a> 👋
 
 <!-- 动态打字效果 -->
-<a href="https://git.io/typing-svg">
+<a href="https://github.com/rainbowtree128">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2897F7&center=false&vCenter=true&width=435&lines=8%2B+Years+Experience;Senior+Python+Developer;Full+Stack+Enthusiast;Polyglot%3A+Python+%7C+Go+%7C+JS" alt="Typing SVG" />
 </a>
 
