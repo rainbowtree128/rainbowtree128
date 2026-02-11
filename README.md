@@ -4,7 +4,7 @@
 </div>
 
 <!-- 个人简介区 -->
-### Hi there, I'm <a href="https://github.com/your-username">Your Name</a> 👋
+### Hi there, I'm <a href="https://github.com/rainbowtree128">Your Name</a> 👋
 
 <!-- 动态打字效果 -->
 <a href="https://git.io/typing-svg">
@@ -63,10 +63,10 @@
 
 <div align="center">
   <!-- 左边放统计卡片，右边放语言比例 -->
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight&count_private=true" height="180" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=tokyonight&hide=jupyter%20notebook" height="180" alt="languages graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=rainbowtree128&show_icons=true&theme=tokyonight&count_private=true" height="180" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rainbowtree128&layout=compact&theme=tokyonight&hide=jupyter%20notebook" height="180" alt="languages graph" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=tokyonight&hide_border=true" alt="streak graph" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rainbowtree128&theme=tokyonight&hide_border=true" alt="streak graph" />
 </div>
