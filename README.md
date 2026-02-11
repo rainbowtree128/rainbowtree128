@@ -13,12 +13,12 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2897F7&center=false&vCenter=true&width=435&lines=8%2B+Years+Experience;Senior+Python+Developer;Full+Stack+Enthusiast;Polyglot%3A+Python+%7C+Go+%7C+JS" alt="Typing SVG" />
 </a>
 
-一名拥有 **8年+** 开发经验的全栈工程师。我热衷于构建高性能的 API 和优雅的前端交互。从后端架构到前端组件，我享受用代码解决复杂问题的过程。
+一名拥有 **8年+** 开发经验的全栈工程师，热衷于构建高性能的 API 和优雅的前端交互。从后端架构到前端组件。
 
-- 🔭 我目前正在完善 **在线商城系统架构**
-- 🌱 我目前正在深入学习 **云原生与微服务治理**
-- 💬 关于 **Python, Flask, React, System Design** 的问题可以问我
-- 📫 联系方式: **your_email@example.com**
+- 🔭 研究方向: Python/Go项目开发，前端设计，API，服务器运维
+- 🌱 持续探索: 高可用、高并发的分布式系统，将复杂的后端逻辑转化为优雅的前端体验
+- 💬 项目经验: 30+项独立项目经验,著有多套网站搭建与维护教程
+- 📫 联系方式: **rainbowtree128@gmail.com**
 
 ---
 
@@ -44,13 +44,3 @@
 
 ---
 
-<!-- 项目展示区 -->
-### 🚀 Featured Projects
-
-| 项目名称 | 简介 | 技术栈 |
-| :--- | :--- | :--- |
-| **🛍️ Gopay** | **企业级在线商城系统**。<br>支持高并发秒杀、多商户入驻、聚合支付集成。包含完整的订单流转与库存管理逻辑。 | `Go` `Gin` `Microservices` `React` |
-| **🧮 MathOnline** | **所见即所得的 LaTeX 编辑器**。<br>专为学术写作设计，实时渲染数学公式，支持导出 PDF/Tex，优化了公式输入的交互体验。 | `React` `MathJax` `Python` `Flask` |
-| **🤖 AutoAPI** | *(待补充)* 自动化的API测试生成工具，基于Swagger文档一键生成测试用例。 | `Python` `Pytest` |
-
----
