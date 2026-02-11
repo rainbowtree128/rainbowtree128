@@ -13,7 +13,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2897F7&center=false&vCenter=true&width=435&lines=8%2B+Years+Experience;Senior+Python+Developer;Full+Stack+Enthusiast;Polyglot%3A+Python+%7C+Go+%7C+JS" alt="Typing SVG" />
 </a>
 
-一名拥有 **8年+** 开发经验的全栈工程师，热衷于构建高性能的 API 和优雅的前端交互。从后端架构到前端组件。
+一名拥有 **5年+** 开发经验的全栈工程师，热衷于构建高性能的 API 和优雅的前端交互。从后端架构到前端组件。
 
 - 🔭 研究方向: Python/Go项目开发，前端设计，API，服务器运维
 - 🌱 持续探索: 高可用、高并发的分布式系统，将复杂的后端逻辑转化为优雅的前端体验
