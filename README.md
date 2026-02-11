@@ -4,7 +4,7 @@
 </div>
 
 <!-- 个人简介区 -->
-### Hi there, I'm <a href="https://github.com/rainbowtree128">Your Name</a> 👋
+### Hi there, I'm <a href="https://github.com/rainbowtree128">rainbowtree</a> 👋
 
 <!-- 动态打字效果 -->
 <a href="https://git.io/typing-svg">
@@ -35,7 +35,9 @@
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
 </div>
 
 ---
