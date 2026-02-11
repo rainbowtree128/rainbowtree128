@@ -10,7 +10,7 @@
 
 <!-- 动态打字效果 -->
 <a href="https://github.com/rainbowtree128">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2897F7&center=false&vCenter=true&width=435&lines=8%2B+Years+Experience;Senior+Python+Developer;Full+Stack+Enthusiast;Polyglot%3A+Python+%7C+Go+%7C+JS" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2897F7&center=false&vCenter=true&width=435&lines=5%2B+Years+Experience;Senior+Python+Developer;Full+Stack+Enthusiast;Polyglot%3A+Python+%7C+Go+%7C+JS" alt="Typing SVG" />
 </a>
 
 一名拥有 **5年+** 开发经验的全栈工程师，热衷于构建高性能的 API 和优雅的前端交互。从后端架构到前端组件。
